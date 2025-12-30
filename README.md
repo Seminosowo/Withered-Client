@@ -13,6 +13,7 @@ Meteor clients and other mods are additions on top of [Withered Utils](https://g
 
 ## Keybinds
 | Mod | Feature | Keybind |
+|---------------------|:---------------------|:--------|
 | Litematica Printer | Toggle Printing Mode | M+K |
 | Meteor Client | Toggle HUD | Right Alt |
 | Meteor Client | Freecam | V |
